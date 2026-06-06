@@ -1,6 +1,6 @@
-# Howdy! I'm Michael Stonis 🤖
+# Howdy! I'm Michael Stonis ☀️
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=f06526&center=false&vCenter=false&width=435&lines=President+%40+Eight-Bot;9x+Microsoft+MVP;Author+of+Enterprise+App+Patterns+for+.NET+MAUI;Building+delightful+mobile+experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFA500&center=false&vCenter=false&width=435&lines=President+%40+Eight-Bot;9x+Microsoft+MVP;Author+of+Enterprise+App+Patterns+for+.NET+MAUI;Building+delightful+mobile+experiences)](https://git.io/typing-svg)
 
 I'm a **Mobile Solution Architect** and **Microsoft MVP** based in the Chicago area. I have a passion for creating user-friendly, innovative applications for enterprises and helping organizations embrace consumer technologies like AI, mobile, and whatever the future may bring.
 
@@ -8,7 +8,7 @@ I am the **President at [Eight-Bot](https://eight.bot)**, where we craft custom 
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🔥 Tech Stack & Tools
 
 I focus on building high-quality, performant solutions using the Microsoft stack, with a special love for mobile and AI.
 
@@ -23,16 +23,20 @@ I focus on building high-quality, performant solutions using the Microsoft stack
 
 ---
 
-### 🔭 Current Projects & Highlights
+### 🏖️ Current Projects & Highlights
 
+* **[KumikoUI](https://ston.is/blog/maui/kumiko-ui/)**: A free, open-source, canvas-drawn DataGrid for .NET MAUI — recently updated with action buttons, per-column edit triggers, and custom fonts.
+* **[MintedTextEditor](https://ston.is/blog/maui/minted-text-editor/)**: A rich text editor for .NET MAUI, filling a gap in the open-source ecosystem.
 * **[MauiNativePdfView](https://github.com/TheEightBot/MauiNativePdfView)**: A high-performance, cross-platform PDF viewer for .NET MAUI.
 * **[Enterprise Application Patterns using .NET MAUI](https://aka.ms/maui-ebook)**: I wrote the book on architectural guidance for building adaptable, maintainable, and testable .NET MAUI apps.
 * **Eight-Bot**: Leading the charge on helping companies leverage mobile, cloud, and AI.
 
 ---
 
-### ⌨ Blog
-I occasionally write about .NET, .NET MAUI, and the challenges of mobile development on my blog, **[ston.is](https://ston.is)**.
+### 📝 Blog
+I regularly write about .NET, .NET MAUI, and the challenges of mobile development on my blog, **[ston.is](https://ston.is)**. Recent posts include:
+- **[KumikoUI Updates - Action Buttons, Per-Column Edit Triggers, and Custom Fonts](https://ston.is/blog/maui/kumiko-ui-updates-may-2026/)** (May 2026)
+- **[MintedTextEditor - A Rich Text Editor for .NET MAUI](https://ston.is/blog/maui/minted-text-editor/)** (March 2026)
 
 ---
 

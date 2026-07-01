@@ -34,9 +34,9 @@ I focus on building high-quality, performant solutions using the Microsoft stack
 ---
 
 ### 📝 Blog
-I regularly write about .NET, .NET MAUI, and the challenges of mobile development on my blog, **[ston.is](https://ston.is)**. Recent posts include:
+I regularly write about .NET, .NET MAUI, software development, and the future of the craft on my blog, **[ston.is](https://ston.is)**. Recent posts include:
+- **[Software's Flat-Pack Era](https://ston.is/blog/development/flat-pack-era/)** (June 2026)
 - **[KumikoUI Updates - Action Buttons, Per-Column Edit Triggers, and Custom Fonts](https://ston.is/blog/maui/kumiko-ui-updates-may-2026/)** (May 2026)
-- **[MintedTextEditor - A Rich Text Editor for .NET MAUI](https://ston.is/blog/maui/minted-text-editor/)** (March 2026)
 
 ---
 

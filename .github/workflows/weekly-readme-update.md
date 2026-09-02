@@ -7,6 +7,9 @@ permissions:
   contents: read
   issues: read
   pull-requests: read
+engine:
+  id: copilot
+  model: claude-sonnet-5
 tools:
   github:
     mode: gh-proxy

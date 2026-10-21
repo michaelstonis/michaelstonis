@@ -35,9 +35,10 @@ I focus on building high-quality, performant solutions using the Microsoft stack
 
 ### ⌨ Blog
 I regularly write about .NET, .NET MAUI, and the challenges of mobile development on my blog, **[ston.is](https://ston.is)**. Recent posts include:
+- **[You Can Just Build It Yourself](https://ston.is/blog/development/build-it-yourself/)**
+- **[Copilot on a Credit Budget](https://ston.is/blog/development/copilot-credit-budget/)**
 - **[Lights Out on Offshoring](https://ston.is/blog/development/lights-out-on-offshoring/)**
 - **[A Decade of Change](https://ston.is/blog/development/a-decade-of-change/)** — reflecting on my 10th Microsoft MVP award and twenty years of .NET
-- **[Software's Flat-Pack Era](https://ston.is/blog/development/flat-pack-era/)**
 
 ---
 

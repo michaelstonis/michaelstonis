@@ -25,6 +25,7 @@ I focus on building high-quality, performant solutions using the Microsoft stack
 
 ### 🔭 Current Projects & Highlights
 
+* **[R3Ext](https://github.com/michaelstonis/R3Ext)**: A new source-generated, high-performance library for Reactive MVVM & Dynamic Data on .NET — compile-time bindings, AOT-friendly change sets, and zero-reflection reactive state.
 * **[KumikoUI](https://ston.is/blog/maui/kumiko-ui/)**: A free, open-source, canvas-drawn DataGrid for .NET MAUI — recently updated with action buttons, per-column edit triggers, and custom fonts.
 * **[MintedTextEditor](https://ston.is/blog/maui/minted-text-editor/)**: A rich text editor for .NET MAUI, filling a gap in the open-source ecosystem.
 * **[MauiNativePdfView](https://github.com/TheEightBot/MauiNativePdfView)**: A high-performance, cross-platform PDF viewer for .NET MAUI.

@@ -3,6 +3,7 @@ emoji: 📝
 description: Weekly update to README.md based on recent GitHub activity, new blog posts, and seasonal/project changes — delivered as a PR.
 on:
   schedule: weekly
+runs-on: ubuntu-24.04
 permissions:
   contents: read
   issues: read
@@ -21,6 +22,8 @@ network:
     - github
     - "ston.is"
 safe-outputs:
+  threat-detection:
+    runs-on: ubuntu-24.04
   create-pull-request:
     title-prefix: "[weekly-update] "
     labels: [automated, readme]

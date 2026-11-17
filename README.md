@@ -10,8 +10,6 @@ I am the **President at [Eight-Bot](https://eight.bot)**, where we craft custom 
 
 ### 🛠️ Tech Stack & Tools
 
-I focus on building high-quality, performant solutions using the Microsoft stack, with a special love for mobile and AI.
-
 <p align="left">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -34,10 +32,11 @@ I focus on building high-quality, performant solutions using the Microsoft stack
 ---
 
 ### ⌨ Blog
-I regularly write about .NET, .NET MAUI, and the challenges of mobile development on my blog, **[ston.is](https://ston.is)**. Recent posts include:
-- **[You Can Just Build It Yourself](https://ston.is/blog/development/build-it-yourself/)** — what used to take years now takes days with an LLM in the loop
-- **[Copilot on a Credit Budget](https://ston.is/blog/development/copilot-credit-budget/)** — working out what an agent session actually costs now that Copilot bills by the token
+
+- **[You Can Just Build It Yourself](https://ston.is/blog/development/build-it-yourself/)**
+- **[Copilot on a Credit Budget](https://ston.is/blog/development/copilot-credit-budget/)**
 - **[Lights Out on Offshoring](https://ston.is/blog/development/lights-out-on-offshoring/)**
+- **[A Decade of Change](https://ston.is/blog/development/a-decade-of-change/)** — reflecting on my 10th Microsoft MVP award and twenty years of .NET
 
 ---
 

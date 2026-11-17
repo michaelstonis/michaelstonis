@@ -10,8 +10,6 @@ I am the **President at [Eight-Bot](https://eight.bot)**, where we craft custom 
 
 ### 🛠️ Tech Stack & Tools
 
-I focus on building high-quality, performant solutions using the Microsoft stack, with a special love for mobile and AI.
-
 <p align="left">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -25,8 +23,8 @@ I focus on building high-quality, performant solutions using the Microsoft stack
 
 ### 🔭 Current Projects & Highlights
 
+* **[Broadside](https://github.com/michaelstonis/Broadside)**: A new fully managed .NET PDF library — read, write, edit, and render ISO 32000-2 compliant PDFs, MIT licensed.
 * **[KumikoUI](https://ston.is/blog/maui/kumiko-ui/)**: A free, open-source, canvas-drawn DataGrid for .NET MAUI — recently updated with action buttons, per-column edit triggers, and custom fonts.
-* **[MintedTextEditor](https://ston.is/blog/maui/minted-text-editor/)**: A rich text editor for .NET MAUI, filling a gap in the open-source ecosystem.
 * **[MauiNativePdfView](https://github.com/TheEightBot/MauiNativePdfView)**: A high-performance, cross-platform PDF viewer for .NET MAUI.
 * **[Enterprise Application Patterns using .NET MAUI](https://aka.ms/maui-ebook)**: I wrote the book on architectural guidance for building adaptable, maintainable, and testable .NET MAUI apps.
 * **Eight-Bot**: Leading the charge on helping companies leverage mobile, cloud, and AI.
@@ -34,7 +32,7 @@ I focus on building high-quality, performant solutions using the Microsoft stack
 ---
 
 ### ⌨ Blog
-I regularly write about .NET, .NET MAUI, and the challenges of mobile development on my blog, **[ston.is](https://ston.is)**. Recent posts include:
+
 - **[You Can Just Build It Yourself](https://ston.is/blog/development/build-it-yourself/)**
 - **[Copilot on a Credit Budget](https://ston.is/blog/development/copilot-credit-budget/)**
 - **[Lights Out on Offshoring](https://ston.is/blog/development/lights-out-on-offshoring/)**

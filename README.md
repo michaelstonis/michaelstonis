@@ -23,8 +23,9 @@ I am the **President at [Eight-Bot](https://eight.bot)**, where we craft custom 
 
 ### 🔭 Current Projects & Highlights
 
+* **[tiny-clips](https://github.com/michaelstonis/tiny-clips)**: A new lightweight macOS & Windows menu bar app for capturing screenshots, video, and animated GIFs of a selected screen region.
 * **[Broadside](https://github.com/michaelstonis/Broadside)**: A new fully managed .NET PDF library — read, write, edit, and render ISO 32000-2 compliant PDFs, MIT licensed.
-* **[KumikoUI](https://ston.is/blog/maui/kumiko-ui/)**: A free, open-source, canvas-drawn DataGrid for .NET MAUI — recently updated with action buttons, per-column edit triggers, and custom fonts.
+* **[KumikoUI](https://ston.is/blog/maui/kumiko-ui/)**: A free, open-source, canvas-drawn DataGrid for .NET MAUI — actively updated with action buttons, per-column edit triggers, and custom fonts.
 * **[MauiNativePdfView](https://github.com/TheEightBot/MauiNativePdfView)**: A high-performance, cross-platform PDF viewer for .NET MAUI.
 * **[Enterprise Application Patterns using .NET MAUI](https://aka.ms/maui-ebook)**: I wrote the book on architectural guidance for building adaptable, maintainable, and testable .NET MAUI apps.
 * **Eight-Bot**: Leading the charge on helping companies leverage mobile, cloud, and AI.
